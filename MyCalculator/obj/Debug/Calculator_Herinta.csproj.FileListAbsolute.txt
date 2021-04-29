@@ -1,0 +1,10 @@
+C:\Users\HERINTA\source\repos\MyCalculator\MyCalculator\bin\Debug\MyCalculator.exe.config
+C:\Users\HERINTA\source\repos\MyCalculator\MyCalculator\bin\Debug\MyCalculator.exe
+C:\Users\HERINTA\source\repos\MyCalculator\MyCalculator\bin\Debug\MyCalculator.pdb
+C:\Users\HERINTA\source\repos\MyCalculator\MyCalculator\obj\Debug\MyCalculator.Properties.Resources.resources
+C:\Users\HERINTA\source\repos\MyCalculator\MyCalculator\obj\Debug\Calculator_Herinta.csproj.GenerateResource.cache
+C:\Users\HERINTA\source\repos\MyCalculator\MyCalculator\obj\Debug\MyCalculator.exe
+C:\Users\HERINTA\source\repos\MyCalculator\MyCalculator\obj\Debug\MyCalculator.pdb
+C:\Users\HERINTA\source\repos\MyCalculator\MyCalculator\obj\Debug\Calculator_Herinta.csprojAssemblyReference.cache
+C:\Users\HERINTA\source\repos\MyCalculator\MyCalculator\obj\Debug\Calculator_Herinta.Form1.resources
+C:\Users\HERINTA\source\repos\MyCalculator\MyCalculator\obj\Debug\Calculator_Herinta.csproj.CoreCompileInputs.cache
